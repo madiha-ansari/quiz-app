@@ -70,4 +70,4 @@ if st.button("Submit Answer"):
     st.rerun()
     
 st.markdown("---")  # Adds a separator line
-st.write("Built with ❤️ by [Madiha Ansari](https://github.com/madiha-ansari/mood_tracker)")
+st.write("Built with ❤️ by [Madiha Ansari](https://github.com/madiha-ansari/quiz-app)")
