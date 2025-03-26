@@ -1,0 +1,5 @@
+PS F:\ramdan> uv init quiz-app     
+F:\ramdan> cd .\quiz-app\   
+uv add streamlit
+streamlit run main.py 
+Quiz application completed ✔
